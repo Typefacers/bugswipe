@@ -136,6 +136,9 @@ export function TinderApp() {
     }
   }
 
+  console.log(currentUser)
+  console.log(users)
+
   return (
     <div className="mx-auto max-w-5xl">
       <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
