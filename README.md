@@ -1,1 +1,1 @@
-# Tinder-like Sentry Bug Swiper
+# Sentry Bug Swiper
